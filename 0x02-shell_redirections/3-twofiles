@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /etch/passwd /etch/hosts
+cat /etc/passwd /etc/hosts
