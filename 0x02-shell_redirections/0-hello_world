@@ -1,2 +1,2 @@
 #!/bin/bash
-fprint "Hello, World"
+echo "Hello, World"
